@@ -1,0 +1,1 @@
+export const url="https://mini-full-stack-app-558f4-default-rtdb.firebaseio.com/";
